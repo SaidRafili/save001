@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;500&display=swap');
+
+
+.mainface {
+    background-color:#155BD5;
+    margin: 0%;
+}
+
+.navbar {
+}
+
+.navigations {
+    color: white;
+    text-decoration: none;
+    font-family: Inter;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+#logo {
+    padding-top: 5;
+    padding-bottom: 5;
+    
+}
